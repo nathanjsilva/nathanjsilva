@@ -1,135 +1,126 @@
-<div align="center">
+# Nathan Silva
 
-# 👨‍💻 Nathan Silva
+### Full Stack Developer Pleno • 6+ anos entregando sistemas web profissionais  
+Juiz de Fora, MG • Fintechs, e-commerce, SaaS, EdTech • Código em produção
 
-### Full Stack Developer | Laravel • Vue • MySQL | Production-Ready Code
-
-<p>
-  <a href="https://linkedin.com/in/nathan-j-silva" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nathan.ads.100@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/nathanjsilva" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/njs.97" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
-📍 **Juiz de Fora, Minas Gerais, Brasil**
+[📧 nathan.ads.100@gmail.com](mailto:nathan.ads.100@gmail.com) · [LinkedIn](https://linkedin.com/in/nathan-j-silva) · [GitHub](https://github.com/nathanjsilva) · [Instagram](https://instagram.com/njs.97)
 
 ---
 
-</div>
+## 💼 Perfil Profissional
 
-## 🚀 Quem Sou
+Desenvolvedor Full Stack Pleno com mais de 6 anos de experiência em plataformas financeiras, e-commerce e produtos digitais. Trabalho com sistemas que já estiveram em produção real, entregando soluções com foco em desempenho, estabilidade e qualidade de código.
 
-Desenvolvedor full-stack baseado em Juiz de Fora que constrói aplicações **em produção** com foco em arquitetura sólida, código limpo e performance. Experiência consolidada em **Laravel 13**, **Vue 3 + TypeScript**, **MySQL** e **DevOps com Docker**. 
-
-Mais de **23 repositórios públicos** e **código rodando em servidor Oracle Cloud** gerenciando dados reais. Não construo projetos de portfólio — construo sistemas que funcionam.
+Minha carreira combina:
+- desenvolvimento backend robusto em **PHP / Laravel**
+- modernização frontend com **Vue.js**
+- otimização de bancos **MySQL / Elasticsearch**
+- práticas de engenharia como **SOLID**, **Design Patterns** e **SCRUM**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-<div align="center">
-
-### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frontend
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-2D9A6D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### DevOps & Infrastructure
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-### Outras Ferramentas
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jwt&logoColor=white)
-
-</div>
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![SCRUM](https://img.shields.io/badge/SCRUM-FF6B6B?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📂 Projetos em Produção
+## 🚀 O que faço de melhor
+
+- Estruturo APIs Laravel com camadas claras e validações orientadas a domínio
+- Modernizo interfaces legadas com **Vue.js** e entrego experiência fluida
+- Reduzo latência e melhoro a estabilidade em sistemas de alto volume
+- Entrego código alinhado a padrões **SOLID**, padrões de design e revisão rigorosa
+- Conecto produto e técnico em plataformas críticas de fintech e e-commerce
+
+---
+
+## 🧭 Trajetória Profissional
+
+### 🏦 Plataforma de Produtos Financeiros (2024 - Presente)  
+Full Stack | Fintech / Produtos Financeiros  
+- Manutenção e evolução de sistema financeiro com foco em performance e estabilidade  
+- Otimização de MySQL em operações críticas  
+- Refatoração de código legado e desenvolvimento de features financeiras  
+- Code review e boas práticas de engenharia
+
+### 🎓 Plataforma de Educação Online (2023 - 2024)  
+Full Stack | EdTech / Pós-graduação online  
+- Modernização progressiva do front-end com **Vue.js**  
+- Back-end em PHP/Laravel para suporte a fluxo educacional  
+- Uso real de **SCRUM** e melhoria de produtividade em equipe  
+- Integração entre UX e lógica de negócio
+
+### 🛒 Plataforma E-commerce (2022 - 2023)  
+Full Stack | E-commerce B2C  
+- Melhoria de performance em loja digital de alta demanda  
+- Busca avançada com **Elasticsearch**  
+- Evolução contínua de plataforma e otimização de queries  
+- Suporte a experiência de compra e conversão
+
+### 💳 Plataforma de Conta Digital (2020 - 2022)  
+Full Stack | Fintech conta digital  
+- Reformulação de API com **Factory Pattern**, **MVC** e **SOLID**  
+- Segurança e desempenho em fluxos financeiros  
+- Requisitos técnicos junto com equipe de produto  
+- Implementação de API RESTful robusta
+
+### 🏢 Sistema de Franquias (2019 - 2020)  
+Full Stack | SaaS / Gestão de franquias  
+- Primeira experiência profissional sólida em full-stack  
+- Desenvolvimento de dashboard e integração com MySQL  
+- Interfaces responsivas com HTML/CSS/Bootstrap  
+- Consolidação de fundamentos de engenharia
+
+---
+
+## 🎓 Formação Acadêmica
+
+- **Graduação** em Análise e Desenvolvimento de Sistemas  
+  Faculdade Estácio - Juiz de Fora · 2018 a Jan/2020
+
+- **Pós-graduação** em Desenvolvimento de Software com Metodologia Ágil  
+  Universidade Anhembi Morumbi · 2022 a Jan/2023
+
+> Formação formal aliada a experiência prática. Não é só “aprender por conta própria” — tem base teórica e processo.
+
+---
+
+## 📁 Projetos GitHub em destaque
 
 ### 🏦 API Gestão Financeira  
-**Full-Stack: Laravel 13 + Vue 3 + MySQL | Status: ✅ Em Produção**
-
-Sistema financeiro completo com autenticação JWT, múltiplos usuários e análise de movimentações. Implementação de arquitetura em camadas profissional (Route → Middleware → FormRequest → Controller → Service → Repository).
-
-**Destaques:**
-- ✅ Autenticação multiusuário com Sanctum + JWT
-- ✅ Dashboard com indicadores financeiros em tempo real
-- ✅ Competência mensal (YYYY-MM) com seed data histórica
-- ✅ Cálculo automático: saldo, reservas, investimentos
-- ✅ Repository Pattern + Eager Loading otimizado
-- ✅ Docker Compose dev/produção | Nginx + PHP-FPM
-- ✅ Validações contextuais por usuário
-- ✅ Middleware de autenticação + ownership validation
-
-🔗 [Ver Repositório](https://github.com/nathanjsilva/api-gestao-financeira)
+**Stack:** Laravel 13 · Vue 3 · MySQL · Docker · Nginx  
+**Status:** Em produção  
+**Por que importa:** projeto pessoal que reproduz a complexidade de uma fintech real, com autenticação multiusuário, dashboard financeiro e arquitetura em camadas.  
+🔗 [github.com/nathanjsilva/api-gestao-financeira](https://github.com/nathanjsilva/api-gestao-financeira)
 
 ---
 
 ### ⚽ API Red Devils  
-**Backend Laravel 11 + MySQL | Status: ✅ Em Produção (Oracle Cloud)**  
-*Servidor: http://168.75.95.247/api*
-
-API para gerenciamento de peladas de futebol com sistema de ranking complexo, estatísticas por jogador e automação de times. Documentação massiva com exemplos reais de curl.
-
-**Destaques:**
-- ✅ Autenticação JWT com roles (admin vs jogador)
-- ✅ CRUD jogadores, peladas, times | Organização automática em 4x times
-- ✅ Rankings especializados: vitórias, gols, assistências, goal participation
-- ✅ Ranking goleiros (menor média de gols = melhor)
-- ✅ Estatísticas por pelada e totais do jogador
-- ✅ Deploy automatizado com shell scripts
-- ✅ Documentação com 600+ linhas + exemplos completos
-- ✅ Tratamento de erros padronizado
-
-🔗 [Ver Repositório](https://github.com/nathanjsilva/api-red-devils)
+**Stack:** Laravel 11 · Vue 3 · TypeScript · MySQL · Docker  
+**Status:** Em produção (Oracle Cloud)  
+**Por que importa:** sistema de peladas com ranking, estatísticas e roles. Mostra domínio técnico e também capacidade de transformar paixão em produto.  
+🔗 [github.com/nathanjsilva/api-red-devils](https://github.com/nathanjsilva/api-red-devils)
 
 ---
 
 ### 🖥️ App Red Devils  
-**Frontend Vue 3 + TypeScript + Pinia | Status: ✅ Completo**
-
-Interface moderna para Red Devils com state management profissional, testes automatizados e foco em UX.
-
-**Destaques:**
-- ✅ Vue 3 Composition API + TypeScript strict mode
-- ✅ Pinia para state management (auth, players, rankings)
-- ✅ Componentes reutilizáveis com arquitetura escalável
-- ✅ Validação de formulários + tratamento de erros centralizado
-- ✅ Responsivo mobile-first com Bootstrap 5
-- ✅ Testes com Vitest + Vue Test Utils
-- ✅ Lazy loading + otimização de chunks
-- ✅ SEO + acessibilidade (a11y) implementados
-- ✅ Autenticação JWT + localStorage
-
-🔗 [Ver Repositório](https://github.com/nathanjsilva/app-red-devils)
-
----
-
-### 📚 API PHP MVC  
-**Referência: PHP Vanilla MVC Pattern | Status: ✅ Referência de Arquitetura**
-
-Demonstração de MVC sem framework. Mostra compreensão dos fundamentos antes do Laravel.
-
-🔗 [Ver Repositório](https://github.com/nathanjsilva/api-php-mvc)
+**Stack:** Vue 3 · TypeScript · Pinia · Bootstrap 5 · Vite  
+**Status:** Completo  
+**Por que importa:** frontend moderno que complementa uma API complexa, com autenticação JWT, estado gerenciado e testes automatizados.  
+🔗 [github.com/nathanjsilva/app-red-devils](https://github.com/nathanjsilva/app-red-devils)
 
 ---
 
@@ -145,94 +136,33 @@ Demonstração de MVC sem framework. Mostra compreensão dos fundamentos antes d
 
 ---
 
-## 🎯 Expertise Demonstrado
+## ⚡ O que estou fazendo agora
 
-<details>
-<summary><b>Backend & Arquitetura</b></summary>
-
-- PHP 8.2+ | Laravel 13 (latest)
-- MVC Pattern (vanilla + framework)
-- RESTful API Design
-- Repository Pattern + Service Layer
-- Autenticação JWT (Sanctum)
-- Validação & Sanitização
-- Query Optimization + Índices de BD
-- Migrations & Seeders versionadas
-- Relacionamentos complexos
-- Regras de negócio multicamadas
-
-</details>
-
-<details>
-<summary><b>Frontend Moderno</b></summary>
-
-- Vue 3 Composition API
-- TypeScript (strict mode)
-- Pinia (state management)
-- Vue Router
-- Component Architecture
-- Responsive Design
-- SEO & Acessibilidade
-- Testes (Vitest, Vue Test Utils)
-- Performance (lazy loading, code splitting)
-
-</details>
-
-<details>
-<summary><b>DevOps & Cloud</b></summary>
-
-- Docker & Docker Compose
-- Nginx (reverse proxy, configuração)
-- Linux/Ubuntu
-- Oracle Cloud Free Tier
-- Deploy scripts (shell)
-- Production configuration
-- Environment management
-
-</details>
+- Estruturando APIs escaláveis com foco em **performance e segurança**
+- Mantendo o **Red Devils** em produção com métricas e melhorias contínuas
+- Evoluindo habilidades em **arquitetura distribuída** e microsserviços
+- Aprofundando automação de testes e práticas de **CI/CD**
 
 ---
 
-## 🔄 O Que Estou Fazendo Agora
+## 🌟 Diferenciais
 
-- 🚀 Aprofundando em arquitetura de microsserviços
-- 📈 Escalando Red Devils para gerenciar mais competições e estatísticas avançadas
-- ⚡ Performance optimization em aplicações Laravel (query optimization, caching)
-- 🧪 Estruturando testes E2E em Vue 3 + Cypress
-
----
-
-## 💡 Diferencial
-
-✨ **Código que roda em produção** — Não é projeto de portfólio. Sistema Red Devils gerencia dados reais em Oracle Cloud.
-
-⚽ **Paixão + Técnica** — Futebol é paixão genuína. Red Devils combina problema real com solução técnica profissional.
-
-📖 **Documentação First** — Escrevo READMEs que educam, endpoints com exemplos completos. Código sem documentação é débito técnico.
-
-🏗️ **Pensamento Arquitetural** — De Gestão Financeira à Red Devils, sempre considero escalabilidade, performance e manutenibilidade. Não é spaghetti code.
-
-🔒 **Security & Performance** — Ownership validation, middleware de autenticação, eager loading, índices otimizados. Detalhes importam.
+- 6+ anos em sistemas reais e produtos financeiros
+- Experiência direta com código em produção e deploys estáveis
+- Trabalho consistente em fintech, e-commerce, EdTech e SaaS
+- Práticas sólidas de engenharia: **SOLID, MVC, Factory, Repository**
+- Experiência formal em **metodologia ágil**
+- Entrega de soluções que equilibram **negócio, performance e qualidade**
 
 ---
 
-## 📬 Vamos Conversar?
+## 📬 Vamos conversar?
 
-Estou sempre aberto a discussões sobre **arquitetura de sistemas**, **otimizações de performance**, **boas práticas em Laravel/Vue** ou apenas para trocar ideias sobre **desenvolvimento profissional**.
+Estou aberto a oportunidades que precisem de alguém que já entregou sistemas críticos de verdade.
 
-💌 **Entre em contato:**
-
-- **Email:** nathan.ads.100@gmail.com
-- **LinkedIn:** [linkedin.com/in/nathan-j-silva](https://linkedin.com/in/nathan-j-silva)
+- **Email:** nathan.ads.100@gmail.com  
+- **Telefone:** (32) 99839-8912  
+- **LinkedIn:** [linkedin.com/in/nathan-j-silva](https://linkedin.com/in/nathan-j-silva)  
 - **GitHub:** [github.com/nathanjsilva](https://github.com/nathanjsilva)
-- **Instagram:** [@njs.97](https://instagram.com/njs.97)
 
----
-
-<div align="center">
-
-### Código limpo, aplicações escaláveis, sempre em produção.
-
-⭐ Se algo aqui interessou, considere dar uma estrela nos repositórios! Feedback é sempre bem-vindo.
-
-</div>
+> Se você precisa de um desenvolvedor pleno que entende tanto o backend quanto a jornada do produto, vamos trocar ideia.
