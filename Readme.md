@@ -94,7 +94,6 @@ Full Stack | SaaS / Gestão de franquias
 - **Pós-graduação** em Desenvolvimento de Software com Metodologia Ágil  
   Universidade Anhembi Morumbi · 2022 a Jan/2023
 
-> Formação formal aliada a experiência prática. Não é só “aprender por conta própria” — tem base teórica e processo.
 
 ---
 
